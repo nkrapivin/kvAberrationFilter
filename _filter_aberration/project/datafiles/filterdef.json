@@ -1,0 +1,17 @@
+{
+    "name": "_filter_aberration",
+    "displayname": "Aberration",
+    "type": "filter",
+    "parameters": [
+        {
+            "name": "u_Distance",
+            "displayname": "Distance",
+            "type": "float",
+            "elements": 1,
+            "arraysize": 0,
+			"default": 0.0,
+            "min": -10.0,
+            "max": 10.0
+        }
+    ]
+}
