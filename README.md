@@ -18,7 +18,7 @@ KeeVee's Aberration shader as an IDE filter!
 
 (~~as with any thing really...~~)
 
-- Effects and filters in general only work for those who've activated a subscription, or have the needed skills to crack the IDE and get rid of this stupid requirement. I'm still not sure whether it was Opera or YoYo who introduced this paywall, but it's stupid anyway. There's nothing *I* can do about it, please don't ask.
+- ~~Effects and filters in general only work for those who've activated a subscription~~ Not true anymore! If you still don't have filters&effects, Log out from the IDE completely and log back in, your license file should refresh. thx yoyo 💚
 - When you install or switch to a different runtime, you have to copy the `_filter_aberration` folder there as well, a bit annoying, hope it gets "fixed" in the future. (otherwise it just errors out lol)
 
 # Credits
